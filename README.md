@@ -5,10 +5,16 @@
 <br>
 <blockquote>
     Nice to meet you! Feel free to explore and relax on this page.<br>
+    I am a Backend/Full Stack Developer. <br>
     I enjoy coding, gaming, learning, sports—pretty much everything! <br><br>
     If you’d like to chat about anything, feel free to reach out! <br>
     If you’d like to work on something together, don’t hesitate to contact me!
 </blockquote>
+
+<div>
+    <a href="https://jowoon-kim-portfolio.vercel.app/"> Check out my portfolio</p>
+    <a> </a>
+</div>
 
 <div>
     <h2 style="border-bottom: 1 px solid #d8dee4; color: #282d33;"> 🎮 Interests </h2> <br> 
